@@ -1,0 +1,18 @@
+[submodule "themes/hugo-xmag"]
+	path = themes/hugo-xmag
+	url = https://github.com/yihui/hugo-xmag
+[submodule "themes/nederburg"]
+	path = themes/nederburg
+	url = https://github.com/appernetic/hugo-nederburg-theme.git
+[submodule "themes/tracks"]
+	path = themes/tracks
+	url = https://github.com/ageekymonk/hugo-tracks-theme.git
+[submodule "themes/hugrid"]
+	path = themes/hugrid
+	url = https://github.com/aerohub/hugrid.git
+[submodule "themes/creative-portfolio"]
+	path = themes/creative-portfolio
+	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+[submodule "themes/octopress"]
+	path = themes/octopress
+	url = https://github.com/parsiya/Hugo-Octopress.git
