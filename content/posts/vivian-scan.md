@@ -1,5 +1,5 @@
 ---
-title: "Վիւիան Մայերի սքաների մասին"
+title: "Վիւիան Մայերի սքանների մասին"
 date: 2018-05-12T20:57:42+04:00
 type: "post"
 image: "/images/scanning-vivian.jpg"
