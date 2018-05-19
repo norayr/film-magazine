@@ -1,9 +1,9 @@
 ---
-title: "Technologies_and_aesthetics"
+title: "Տեխնոլոգիաներն ու էսթետիկան"
 date: 2018-05-20T00:54:40+04:00
 type: "post"
-image: "/images/scanning-vivian.jpg"
-tags : ["տեսածրում", "վիւիան մայեր"]
+image: "/images/technologies_and_aesthetics.jpg"
+tags : ["տեխնոլոգիաներ", "գոյն", "ժապաւէն", "ինքնանկար", "էսթետիկա"]
 categories : ["յօդուածներ"]
 author:
   given_name: նորայր
