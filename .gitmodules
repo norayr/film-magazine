@@ -10,9 +10,6 @@
 [submodule "themes/hugrid"]
 	path = themes/hugrid
 	url = https://github.com/aerohub/hugrid.git
-[submodule "themes/creative-portfolio"]
-	path = themes/creative-portfolio
-	url = https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
 [submodule "themes/octopress"]
 	path = themes/octopress
 	url = https://github.com/parsiya/Hugo-Octopress.git
