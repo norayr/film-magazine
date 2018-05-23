@@ -4,7 +4,25 @@ title = "ժապաւէն"
 #theme = "octopress"
 theme = "nederburg"
 email = "norayr@arnet.am"
-[taxonomies]
-  category = "categories"
+preserveTaxonomyNames = true
+
+[[menu.main]]
+name = "հոսք"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "մեր մասին"
+url = "about/"
+weight = 2
+
+[[menu.main]]
+name = "կապ"
+url = "contact/"
+weight = 3
+
+
+#[taxonomies]
+#  category = "categories"
 #  series = "series"
-  tag = "tags"
+#  tag = "tags"
