@@ -11,14 +11,19 @@ url = "/"
 weight = 1
 
 [[menu.main]]
+name = "հեղինակներ"
+url = "authors/"
+weight = 2
+
+[[menu.main]]
 name = "մեր մասին"
 url = "about/"
-weight = 2
+weight = 3
 
 [[menu.main]]
 name = "կապ"
 url = "contact/"
-weight = 3
+weight = 4
 
 
 #[taxonomies]
