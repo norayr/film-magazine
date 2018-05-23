@@ -1,5 +1,5 @@
 baseURL = "http://ժապաւէն.հայ/"
-languageCode = "en-us"
+languageCode = "hy-AM"
 title = "ժապաւէն"
 #theme = "octopress"
 theme = "nederburg"
