@@ -1,7 +1,6 @@
 baseURL = "http://ժապաւէն.հայ/"
-languageCode = "hy-AM"
+#languageCode = "hy-AM"
 title = "ժապաւէն"
-#theme = "octopress"
 theme = "nederburg"
 email = "norayr@arnet.am"
 preserveTaxonomyNames = true
