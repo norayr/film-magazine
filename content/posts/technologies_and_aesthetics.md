@@ -2,13 +2,10 @@
 title: "Տեխնոլոգիաներն ու էսթետիկան"
 date: 2018-05-20T00:54:40+04:00
 type: "post"
-image: "/images/technologies_and_aesthetics.jpg"
+image: "/images/girl_and_robot.jpg"
 tags : ["տեխնոլոգիաներ", "գոյն", "ժապաւէն", "ինքնանկար", "էսթետիկա"]
 categories : ["յօդուածներ"]
-author:
-  given_name: նորայր
-  family_name: չիլինւարեան
-  display_name: նորայր
+author : "norayr"
 ---
 
 նախկինում ես նկատում էի ինչպէս է տեխնիկան փոխում էսթետիկան։ ասենք, թուային մոնտաժը բերեց մեզ «դիսկրետ» մոնտաժ։
