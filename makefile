@@ -1,4 +1,7 @@
 
+default:
+		hugo
+
 run:
 		hugo server --disableFastRender
 
