@@ -1,12 +1,11 @@
 ---
 title: "հեղինակներ"
 date: 2018-05-23T16:36:52+04:00
-#type: "post"
-#image: "/images/scanning-vivian.jpg"
-#author : "norayr"
 tags : ["հեղինակներ"]
 categories : ["հեղինակներ"]
 ---
+
+[Արտակ Կոլեան](/authors/artak_kolian/)
 
 [Գրիգորի Ջաւադեան](/authors/grigori_javadian/)
 

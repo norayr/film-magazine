@@ -1,8 +1,6 @@
 ---
 title: "գրիգորի ջաւադեան"
 date: 2018-05-23T16:36:52+04:00
-#type: "post"
-#image: "/images/scanning-vivian.jpg"
 author : "nicebyte"
 tags : ["հեղինակներ"]
 categories : ["հեղինակներ"]
@@ -10,7 +8,7 @@ categories : ["հեղինակներ"]
 
 պատմութիւններ՝
 
-[զենիտի նոր կյանքը](/posts/nicebyte/)
+[զենիտի նոր կյանքը](/posts/new_life_of_the_zenit/)
 
 
 
