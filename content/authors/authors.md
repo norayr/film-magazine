@@ -5,6 +5,8 @@ tags : ["հեղինակներ"]
 categories : ["հեղինակներ"]
 ---
 
+[Աննա Սուքիասեան](/authors/anna_sukiasian/)
+
 [Արտակ Կոլեան](/authors/artak_kolian/)
 
 [Գրիգորի Ջաւադեան](/authors/grigori_javadian/)
