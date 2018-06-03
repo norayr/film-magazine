@@ -13,17 +13,17 @@ weight = 1
 
 [[menu.main]]
 name = "հեղինակներ"
-url = "authors/authors"
+url = "հեղինակ/համայնք/"
 weight = 2
 
 [[menu.main]]
 name = "մեր մասին"
-url = "about/"
+url = "մեր_մասին/"
 weight = 3
 
 [[menu.main]]
 name = "կապ"
-url = "contact/"
+url = "կապ/"
 weight = 4
 
 
