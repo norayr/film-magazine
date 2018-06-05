@@ -1,0 +1,3 @@
+[submodule "themes/nederburg"]
+	path = themes/nederburg
+	url = https://github.com/norayr/hugo-nederburg-theme
