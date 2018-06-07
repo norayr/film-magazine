@@ -1,10 +1,9 @@
 baseURL = "http://ժապաւէն.հայ/"
 #languageCode = "hy-AM"
 title = "ժապաւէն"
-theme = "nederburg"
+theme = "hugo-nederburg-theme"
 #theme = "minimo"
 email = "norayr@arnet.am"
-preserveTaxonomyNames = true
 
 [[menu.main]]
 name = "հոսք"
