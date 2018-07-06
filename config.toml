@@ -1,7 +1,7 @@
 baseURL = "http://ժապաւէն.հայ/"
 #languageCode = "hy-AM"
 title = "ժապաւէն"
-theme = "hugo-nederburg-theme"
+theme = "nederburg"
 #theme = "minimo"
 email = "norayr@arnet.am"
 
