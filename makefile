@@ -1,6 +1,6 @@
 
 default:
-		hugo
+		hugo --buildFuture
 
 run:
 		hugo server --disableFastRender
