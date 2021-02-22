@@ -10,10 +10,10 @@ name = "հոսք"
 url = "/"
 weight = 1
 
-#[[menu.main]]
-#name = "հեղինակներ"
-#url = "հեղինակ/համայնք/"
-#weight = 2
+[[menu.main]]
+name = "հեղինակներ"
+url = "հեղինակ/համայնք/"
+weight = 2
 
 [[menu.main]]
 name = "մեր մասին"
