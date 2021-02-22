@@ -1,4 +1,5 @@
 HUGO="$(HOME)/go/bin/hugo"
+HUGO="/usr/bin/hugo"
 default:
 		$(HUGO) --buildFuture
 

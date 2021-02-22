@@ -27,6 +27,6 @@ weight = 4
 
 
 #[taxonomies]
-#  category = "categories"
+  category = "categories"
 #  series = "series"
-#  tag = "tags"
+  tag = "tags"
