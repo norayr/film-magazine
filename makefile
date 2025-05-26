@@ -7,7 +7,7 @@ run:
 		$(HUGO) server --disableFastRender
 
 sync:
-		rsync -aPv -e "ssh" --delete public/* root@arnet.am:/home/nil3/www/ժապաւէն.հայ/htdocs/
+		rsync -aPv -e "ssh -p2323" --delete public/* root@arnet.am:/srv/www/ժապաւէն.հայ/htdocs/
 
 clean:
 		rm -rf public/*
