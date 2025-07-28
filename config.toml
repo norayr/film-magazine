@@ -4,6 +4,7 @@ title = "ժապաւէն"
 theme = "nederburg"
 #theme = "minimo"
 email = "norayr@arnet.am"
+summaryLength = 70
 
 [[menu.main]]
 name = "հոսք"
